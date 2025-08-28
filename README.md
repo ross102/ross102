@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi I'm Ndu Ifeanyi  
+ A software developer. I often find myself building between 
+ randomness and reason
 
-<!--
-**ross102/ross102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Working on
+- Web3 projects
+- Enterprise applications
+- Design
 
-Here are some ideas to get you started:
+## Some of my earned NFTs💻 
+- [L2 Accelerator By Encode club Feb 2023](https://opensea.io/item/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/3976)
+- [EthDenver Bootcamp 2022](https://opensea.io/item/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/1334)
+- [Polygon Educate series](https://opensea.io/item/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/9269)
+- [BNB Hackathon 2023](https://opensea.io/item/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/6404)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ You can connect with me on [LinkedIn](https://www.linkedin.com/in/ifeanyi-ndu/)
+  
+
