@@ -1,5 +1,5 @@
 # Hi I'm Ndu Ifeanyi  
- I'm a software developer. I often build between 
+ I'm a software developer. I build between 
  randomness and reason
 
 ## Currently Working on
